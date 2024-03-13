@@ -14,8 +14,7 @@
 
 ## 🤝 Contact
 
-- 📧 **Email**: cbh2962@naver.com
-- 📧 **Email**: cbh2962@gmail.com
-
-## 📜 Blog: https://blog.naver.com/cbh2962
-## 📚 Notion: https://www.notion.so/facd3e58bf79481cb2bae38b864d579d?v=f4d652483dc4410cbfee743c8abc4b75&pvs=4
+- 📧 **Email1**: cbh2962@naver.com
+- 📧 **Email2**: cbh2962@gmail.com
+- 📜 **Blog**: https://blog.naver.com/cbh2962
+- 📚 **Notion**: https://www.notion.so/facd3e58bf79481cb2bae38b864d579d?v=f4d652483dc4410cbfee743c8abc4b75&pvs=4
