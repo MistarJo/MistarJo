@@ -12,7 +12,7 @@
 - **Meta Auction** [2023-09 - 2023-12] - [4인 개발] Unreal Engine 5 캡스톤 메타버스 플랫폼 프로젝트 (Character, UMG 구현)
 - **Turn Based RPG** [2024-03 ~ Now] - [1인 개발] Unreal Engine 5 Turn Based RPG
 
-## 🤝 Contact
+## 🤝 Site
 
 - 📧 **Email1**: cbh2962@naver.com
 - 📧 **Email2**: cbh2962@gmail.com
